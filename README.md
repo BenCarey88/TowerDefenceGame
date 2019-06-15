@@ -1,4 +1,4 @@
-Tower Defence Game
+# Tower Defence Game
 
 This is a work in progress, coded using the canvas function in javascript and embedded in a simple html file.
 
